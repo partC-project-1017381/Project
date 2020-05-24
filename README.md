@@ -13,11 +13,11 @@ matplotlib 3.1.3
 ```
 
 # Run
-Codes for training the network are in CRNN
+Code for training the network is in CRNN
 
-Codes for the game-based method are in DeepGame
+Code for the game-based method is in DeepGame
 
-Codes for Lipschitz constant estimation are in Lipschitz, where CLEVER is the extreme value approach, and rnn_bound, cnn_bound are output range analysis approaches.
+Code for Lipschitz constant estimation is in Lipschitz, where CLEVER is the extreme value approach, and rnn_bound, cnn_bound are output range analysis approaches.
 
 data contains the training and test datasets, and model includes the trained model.
 
