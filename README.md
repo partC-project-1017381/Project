@@ -15,11 +15,11 @@ matplotlib 3.1.3
 ```
 
 # Run
-Code for training the network and the trained model are in network
+Code for training the network and the trained model are in NeuralNetwork.
 
-Code for the game-based method is in DeepGame
+Code for the game-based method is in DeepGame.
 
 Code for Lipschitz constant estimation is in Lipschitz, where CLEVER is the extreme value approach, and rnn_bound, cnn_bound are output range analysis approaches.
 
-data contains the training and test datasets, and model includes the trained model.
+The training and test datasets are in data.
 
