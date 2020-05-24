@@ -15,7 +15,7 @@ matplotlib 3.1.3
 ```
 
 # Run
-Code for training the network is in CRNN
+Code for training the network and the trained model are in network
 
 Code for the game-based method is in DeepGame
 
